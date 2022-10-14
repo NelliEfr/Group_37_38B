@@ -147,3 +147,18 @@ header .achievements .descr{
   font-weight: 500;
   text-transform: uppercase;
 }
+
+footer {
+  background-color: #404149;
+  color: white;
+  height: 82px;
+}
+
+.footer_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  font-size: 14px;
+  font-weight: 400;
+}
