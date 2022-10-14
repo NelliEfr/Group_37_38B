@@ -99,4 +99,51 @@ header .achievements .descr{
   font-weight: 500;
 }
 
+/* .project_title:hover {
+  text-decoration: underline;
+  color: red;
+  font-size: 50px;
+} */
 
+.project_descr {
+  color: #999999;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#smart_projects {
+  background-color: #F7654A;
+  height: 180px;
+}
+
+.smart_descr {
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.smart_descr h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.smart_descr p {
+  font-size: 24px;
+}
+
+.smart_projects_block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.smart_projects_block button {
+  background-color: white;
+  border: 1px solid transparent;
+  width: 175px;
+  height: 49px;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
