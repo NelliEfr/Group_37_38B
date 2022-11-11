@@ -1,0 +1,25 @@
+.card_elem {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  font-size: 14px;
+  width: 200px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* .price {
+  color: red;
+} */
+
+/* 
+1. добавить card_elem свойства border, padding, font-size, margin, border-radius
+
+2. сделать из container flex-контейнер и расположить карточки вдоль горизонтальной оси, используя space-between
+
+3. Сделать текст параграфа price красного цвета
+*/
